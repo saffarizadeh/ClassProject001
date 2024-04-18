@@ -13,6 +13,6 @@ class Program
 
     static void SayBye()
     {
-        Console.WriteLine("Bye");
+        Console.WriteLine("ByeBye");
     }
 }
