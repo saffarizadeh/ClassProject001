@@ -10,4 +10,9 @@ class Program
     {
         Console.WriteLine("Hello!");
     }
+
+    static void SayBye()
+    {
+        Console.WriteLine("Bye");
+    }
 }
