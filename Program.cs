@@ -15,4 +15,7 @@ class Program
     {
         Console.WriteLine("ByeBye");
     }
+    static void DevExtra()
+    {
+    }
 }
